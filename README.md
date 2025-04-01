@@ -3,10 +3,7 @@
 🧠 Founder · 🛠️ Engineer · Building AI-native tools that make technology quieter, smarter, and human-first.
 
 ### 🚀 Current Lineup
-- 🛡️ **Bellocker** — AI-powered adblocker  
-- 📥 **NeatBox** — Inbox declutterer using LLMs  
-- 🧭 **MapGPT** — Mindmapped memory for ChatGPT  
-- 📘 **MindLine** — Inline explainer for static PDFs
+- 🌱 Sentium
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-haghighi-24b779304/)  
