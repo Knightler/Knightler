@@ -4,6 +4,9 @@
 
 ### 🚀 Current Lineup
 - Ⓐ Aegix
+  
+    [Aegix repo](https://github.com/Knightler/Aegix)
+
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-haghighi-24b779304/)  
