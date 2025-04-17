@@ -3,7 +3,7 @@
 🧠 Founder · 🛠️ Engineer · Building AI-native tools that make technology quieter, smarter, and human-first.
 
 ### 🚀 Current Lineup
-- Ⓐ Aegix
+- Ⓐ Aegix — an autonomous, adaptive intelligence system.
   
     [Aegix repo](https://github.com/Knightler/Aegix)
 
