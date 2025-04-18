@@ -10,7 +10,7 @@
 <p style="display: flex; align-items: flex-start; gap: 10px;">
   <img src="icon/1.png" alt="Aegix" width="25" style="margin-top: 6px;">
   <span>
-    <strong>Aegix</strong> — an autonomous, adaptive intelligence system. <a href="https://github.com/Knightler/Aegix">(Repo)</a>
+    <strong>Aegix</strong> — an autonomous, adaptive intelligence system. <a href="https://github.com/orgs/Aegix-AI/">(GITHUB)</a>
   </span>
 </p>
 
