@@ -14,7 +14,8 @@
   </span>
 </p>
 
-🚧 Aegix v1.0 — in development  
+🚧 Aegix v1.0 — in development (delayed)
+   Relicon v0.6.0 - pre-release
 
 ---
 
