@@ -10,7 +10,7 @@
 &nbsp;
 <a href="https://x.com/AryanHHaghighi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:aryan.haghighnew@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aryan.haghighihq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
